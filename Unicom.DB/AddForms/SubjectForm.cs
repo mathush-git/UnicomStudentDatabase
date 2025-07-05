@@ -21,10 +21,7 @@ namespace Unicom.DB.AddForms
         public SubjectForm()
         {
             InitializeComponent();
-            this.BackgroundImage = Image.FromFile("Z:\\C#\\Management System for C#\\Unicom.DB\\A.jpg");
-
-
-            this.BackgroundImageLayout = ImageLayout.Stretch;
+            
             _subjectController = new SubjectController();
             _courseController = new CourseController();
             LoadSubject();

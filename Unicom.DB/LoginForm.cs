@@ -19,10 +19,7 @@ namespace Unicom.DB
         public LoginForm()
         {
             InitializeComponent();
-            this.BackgroundImage = Image.FromFile("Z:\\C#\\Management System for C#\\Unicom.DB\\C.jpg");
-
-
-            this.BackgroundImageLayout = ImageLayout.Stretch;
+           
             _loginController = new UserLoginController();
 
             cmbRole.Items.AddRange(new[] { "Admin", "Student", "Lecturer", "Staff" });

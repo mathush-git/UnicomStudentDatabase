@@ -17,10 +17,7 @@ namespace Unicom.DB.View_Form
         public Exam_Mark_Form()
         {
             InitializeComponent();
-            this.BackgroundImage = Image.FromFile("Z:\\C#\\Management System for C#\\Unicom.DB\\F.jpg");
-
-
-            this.BackgroundImageLayout = ImageLayout.Stretch;
+            
         }
 
         private void btnSubmit_Click(object sender, EventArgs e)

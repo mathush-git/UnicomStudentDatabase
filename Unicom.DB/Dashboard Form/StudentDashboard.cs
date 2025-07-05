@@ -16,10 +16,7 @@ namespace Unicom.DB.Dashboard_Form
         public StudentDashboard()
         {
             InitializeComponent();
-            this.BackgroundImage = Image.FromFile("Z:\\C#\\Management System for C#\\Unicom.DB\\B.jpg");
-
-
-            this.BackgroundImageLayout = ImageLayout.Stretch;
+            
         }
 
         private void btnCancel_Click(object sender, EventArgs e)

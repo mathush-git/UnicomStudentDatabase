@@ -22,10 +22,7 @@ namespace Unicom.DB
         public AdminForm()
         {
             InitializeComponent();
-            this.BackgroundImage = Image.FromFile("Z:\\C#\\Management System for C#\\Unicom.DB\\A.jpg");
-
-
-            this.BackgroundImageLayout = ImageLayout.Stretch;
+            
             LoadAdmin();
             LoadRoles();
             LoadSriLankaDistricts();

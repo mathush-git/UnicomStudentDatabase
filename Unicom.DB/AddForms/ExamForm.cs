@@ -19,10 +19,7 @@ namespace Unicom.DB.AddForms
         public ExamForm()
         {
             InitializeComponent();
-            this.BackgroundImage = Image.FromFile("Z:\\C#\\Management System for C#\\Unicom.DB\\A.jpg");
-
-
-            this.BackgroundImageLayout = ImageLayout.Stretch;
+            
             LoadExam();
         }
 

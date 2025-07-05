@@ -25,10 +25,7 @@ namespace Unicom.DB
             InitializeComponent();
 
             _userRole = userRole;
-            this.BackgroundImage = Image.FromFile("Z:\\C#\\Management System for C#\\Unicom.DB\\A.jpg");
-
-
-            this.BackgroundImageLayout = ImageLayout.Stretch;
+           
 
             switch (_userRole)
             {

@@ -23,10 +23,7 @@ namespace Unicom.DB
         public StudentForm()
         {
             InitializeComponent();
-            this.BackgroundImage = Image.FromFile("Z:\\C#\\Management System for C#\\Unicom.DB\\A.jpg");
-
-
-            this.BackgroundImageLayout = ImageLayout.Stretch;
+           
             _studentController = new StudentController();
             _courseController = new CourseController();
 

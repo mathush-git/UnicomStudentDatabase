@@ -19,10 +19,7 @@ namespace Unicom.DB.View_Form
         public Time_Table_Form()
         {
             InitializeComponent();
-            this.BackgroundImage = Image.FromFile("Z:\\C#\\Management System for C#\\Unicom.DB\\F.jpg");
-
-
-            this.BackgroundImageLayout = ImageLayout.Stretch;
+            
 
             ReloadTimeTable();
 

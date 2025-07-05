@@ -16,10 +16,7 @@ namespace Unicom.DB
         public MainForm()
         {
             InitializeComponent();
-            this.BackgroundImage = Image.FromFile("Z:\\C#\\Management System for C#\\Unicom.DB\\D.jpg");
-
             
-            this.BackgroundImageLayout = ImageLayout.Stretch;
         }
 
         private void button2_Click(object sender, EventArgs e)

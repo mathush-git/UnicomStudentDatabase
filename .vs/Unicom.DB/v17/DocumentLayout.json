@@ -1,7 +1,112 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "Z:\\C#\\Management System for C#\\Unicom.DB\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|z:\\c#\\management system for c#\\unicom.db\\unicom.db\\addforms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|solutionrelative:unicom.db\\addforms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|z:\\c#\\management system for c#\\unicom.db\\unicom.db\\addforms\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|solutionrelative:unicom.db\\addforms\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|z:\\c#\\management system for c#\\unicom.db\\unicom.db\\addforms\\exam_markform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|solutionrelative:unicom.db\\addforms\\exam_markform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|z:\\c#\\management system for c#\\unicom.db\\unicom.db\\addforms\\examform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|solutionrelative:unicom.db\\addforms\\examform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|z:\\c#\\management system for c#\\unicom.db\\unicom.db\\addforms\\lecturerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|solutionrelative:unicom.db\\addforms\\lecturerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|z:\\c#\\management system for c#\\unicom.db\\unicom.db\\addforms\\roomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|solutionrelative:unicom.db\\addforms\\roomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|z:\\c#\\management system for c#\\unicom.db\\unicom.db\\addforms\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|solutionrelative:unicom.db\\addforms\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|z:\\c#\\management system for c#\\unicom.db\\unicom.db\\addforms\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|solutionrelative:unicom.db\\addforms\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|z:\\c#\\management system for c#\\unicom.db\\unicom.db\\addforms\\subjectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|solutionrelative:unicom.db\\addforms\\subjectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|z:\\c#\\management system for c#\\unicom.db\\unicom.db\\addforms\\time_tableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|solutionrelative:unicom.db\\addforms\\time_tableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|z:\\c#\\management system for c#\\unicom.db\\unicom.db\\dashboard form\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|solutionrelative:unicom.db\\dashboard form\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|z:\\c#\\management system for c#\\unicom.db\\unicom.db\\dashboard form\\lecturerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|solutionrelative:unicom.db\\dashboard form\\lecturerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|z:\\c#\\management system for c#\\unicom.db\\unicom.db\\dashboard form\\staffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|solutionrelative:unicom.db\\dashboard form\\staffdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|z:\\c#\\management system for c#\\unicom.db\\unicom.db\\dashboard form\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|solutionrelative:unicom.db\\dashboard form\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|z:\\c#\\management system for c#\\unicom.db\\unicom.db\\view form\\course_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|solutionrelative:unicom.db\\view form\\course_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|z:\\c#\\management system for c#\\unicom.db\\unicom.db\\view form\\exam_mark_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|solutionrelative:unicom.db\\view form\\exam_mark_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|z:\\c#\\management system for c#\\unicom.db\\unicom.db\\view form\\time_table_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|solutionrelative:unicom.db\\view form\\time_table_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|z:\\c#\\management system for c#\\unicom.db\\unicom.db\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|solutionrelative:unicom.db\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|z:\\c#\\management system for c#\\unicom.db\\unicom.db\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|solutionrelative:unicom.db\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|Z:\\C#\\Management System for C#\\Unicom.DB\\unicom.db\\dashboard form\\lecturerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|solutionrelative:unicom.db\\dashboard form\\lecturerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|Z:\\C#\\Management System for C#\\Unicom.DB\\unicom.db\\dashboard form\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|solutionrelative:unicom.db\\dashboard form\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|Z:\\C#\\Management System for C#\\Unicom.DB\\unicom.db\\view form\\time_table_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|solutionrelative:unicom.db\\view form\\time_table_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|Z:\\C#\\Management System for C#\\Unicom.DB\\unicom.db\\view form\\exam_mark_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|solutionrelative:unicom.db\\view form\\exam_mark_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|Z:\\C#\\Management System for C#\\Unicom.DB\\unicom.db\\view form\\course_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|solutionrelative:unicom.db\\view form\\course_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|Z:\\C#\\Management System for C#\\Unicom.DB\\unicom.db\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|solutionrelative:unicom.db\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|z:\\c#\\management system for c#\\unicom.db\\unicom.db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1F90CA-54B0-4315-9C0D-8EF3F6554317}|Unicom.DB\\Unicom.DB.csproj|solutionrelative:unicom.db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +114,332 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\AddForms\\AdminForm.cs",
+              "RelativeDocumentMoniker": "Unicom.DB\\AddForms\\AdminForm.cs",
+              "ToolTip": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\AddForms\\AdminForm.cs",
+              "RelativeToolTip": "Unicom.DB\\AddForms\\AdminForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:28:30.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseForm.cs",
+              "DocumentMoniker": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\AddForms\\CourseForm.cs",
+              "RelativeDocumentMoniker": "Unicom.DB\\AddForms\\CourseForm.cs",
+              "ToolTip": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\AddForms\\CourseForm.cs",
+              "RelativeToolTip": "Unicom.DB\\AddForms\\CourseForm.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:28:22.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exam_MarkForm.cs",
+              "DocumentMoniker": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\AddForms\\Exam_MarkForm.cs",
+              "RelativeDocumentMoniker": "Unicom.DB\\AddForms\\Exam_MarkForm.cs",
+              "ToolTip": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\AddForms\\Exam_MarkForm.cs",
+              "RelativeToolTip": "Unicom.DB\\AddForms\\Exam_MarkForm.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:28:15.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExamForm.cs",
+              "DocumentMoniker": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\AddForms\\ExamForm.cs",
+              "RelativeDocumentMoniker": "Unicom.DB\\AddForms\\ExamForm.cs",
+              "ToolTip": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\AddForms\\ExamForm.cs",
+              "RelativeToolTip": "Unicom.DB\\AddForms\\ExamForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:28:10.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LecturerForm.cs",
+              "DocumentMoniker": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\AddForms\\LecturerForm.cs",
+              "RelativeDocumentMoniker": "Unicom.DB\\AddForms\\LecturerForm.cs",
+              "ToolTip": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\AddForms\\LecturerForm.cs",
+              "RelativeToolTip": "Unicom.DB\\AddForms\\LecturerForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:28:04.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomForm.cs",
+              "DocumentMoniker": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\AddForms\\RoomForm.cs",
+              "RelativeDocumentMoniker": "Unicom.DB\\AddForms\\RoomForm.cs",
+              "ToolTip": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\AddForms\\RoomForm.cs",
+              "RelativeToolTip": "Unicom.DB\\AddForms\\RoomForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:27:57.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StaffForm.cs",
+              "DocumentMoniker": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\AddForms\\StaffForm.cs",
+              "RelativeDocumentMoniker": "Unicom.DB\\AddForms\\StaffForm.cs",
+              "ToolTip": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\AddForms\\StaffForm.cs",
+              "RelativeToolTip": "Unicom.DB\\AddForms\\StaffForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:27:50.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentForm.cs",
+              "DocumentMoniker": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\AddForms\\StudentForm.cs",
+              "RelativeDocumentMoniker": "Unicom.DB\\AddForms\\StudentForm.cs",
+              "ToolTip": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\AddForms\\StudentForm.cs",
+              "RelativeToolTip": "Unicom.DB\\AddForms\\StudentForm.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:27:43.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SubjectForm.cs",
+              "DocumentMoniker": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\AddForms\\SubjectForm.cs",
+              "RelativeDocumentMoniker": "Unicom.DB\\AddForms\\SubjectForm.cs",
+              "ToolTip": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\AddForms\\SubjectForm.cs",
+              "RelativeToolTip": "Unicom.DB\\AddForms\\SubjectForm.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:27:35.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Time_TableForm.cs",
+              "DocumentMoniker": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\AddForms\\Time_TableForm.cs",
+              "RelativeDocumentMoniker": "Unicom.DB\\AddForms\\Time_TableForm.cs",
+              "ToolTip": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\AddForms\\Time_TableForm.cs",
+              "RelativeToolTip": "Unicom.DB\\AddForms\\Time_TableForm.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:27:26.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StaffDashboard.cs",
+              "DocumentMoniker": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\Dashboard Form\\StaffDashboard.cs",
+              "RelativeDocumentMoniker": "Unicom.DB\\Dashboard Form\\StaffDashboard.cs",
+              "ToolTip": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\Dashboard Form\\StaffDashboard.cs",
+              "RelativeToolTip": "Unicom.DB\\Dashboard Form\\StaffDashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:26:59.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentDashboard.cs",
+              "DocumentMoniker": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\Dashboard Form\\StudentDashboard.cs",
+              "RelativeDocumentMoniker": "Unicom.DB\\Dashboard Form\\StudentDashboard.cs",
+              "ToolTip": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\Dashboard Form\\StudentDashboard.cs",
+              "RelativeToolTip": "Unicom.DB\\Dashboard Form\\StudentDashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:26:52.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LecturerDashboard.cs",
+              "DocumentMoniker": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\Dashboard Form\\LecturerDashboard.cs",
+              "RelativeDocumentMoniker": "Unicom.DB\\Dashboard Form\\LecturerDashboard.cs",
+              "ToolTip": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\Dashboard Form\\LecturerDashboard.cs",
+              "RelativeToolTip": "Unicom.DB\\Dashboard Form\\LecturerDashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:24:28.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Time_Table_Form.cs",
+              "DocumentMoniker": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\View Form\\Time_Table_Form.cs",
+              "RelativeDocumentMoniker": "Unicom.DB\\View Form\\Time_Table_Form.cs",
+              "ToolTip": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\View Form\\Time_Table_Form.cs",
+              "RelativeToolTip": "Unicom.DB\\View Form\\Time_Table_Form.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:24:05.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Exam_Mark_Form.cs",
+              "DocumentMoniker": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\View Form\\Exam_Mark_Form.cs",
+              "RelativeDocumentMoniker": "Unicom.DB\\View Form\\Exam_Mark_Form.cs",
+              "ToolTip": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\View Form\\Exam_Mark_Form.cs",
+              "RelativeToolTip": "Unicom.DB\\View Form\\Exam_Mark_Form.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:23:55.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LecturerDashboard.cs [Design]",
+              "DocumentMoniker": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\Dashboard Form\\LecturerDashboard.cs",
+              "RelativeDocumentMoniker": "Unicom.DB\\Dashboard Form\\LecturerDashboard.cs",
+              "ToolTip": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\Dashboard Form\\LecturerDashboard.cs [Design]*",
+              "RelativeToolTip": "Unicom.DB\\Dashboard Form\\LecturerDashboard.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:24:26.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\MainForm.cs",
+              "RelativeDocumentMoniker": "Unicom.DB\\MainForm.cs",
+              "ToolTip": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\MainForm.cs",
+              "RelativeToolTip": "Unicom.DB\\MainForm.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIAwwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:23:04.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\Dashboard Form\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "Unicom.DB\\Dashboard Form\\AdminDashboard.cs",
+              "ToolTip": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\Dashboard Form\\AdminDashboard.cs",
+              "RelativeToolTip": "Unicom.DB\\Dashboard Form\\AdminDashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:24:17.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Time_Table_Form.cs [Design]",
+              "DocumentMoniker": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\View Form\\Time_Table_Form.cs",
+              "RelativeDocumentMoniker": "Unicom.DB\\View Form\\Time_Table_Form.cs",
+              "ToolTip": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\View Form\\Time_Table_Form.cs [Design]*",
+              "RelativeToolTip": "Unicom.DB\\View Form\\Time_Table_Form.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:24:02.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Course_Form.cs",
+              "DocumentMoniker": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\View Form\\Course_Form.cs",
+              "RelativeDocumentMoniker": "Unicom.DB\\View Form\\Course_Form.cs",
+              "ToolTip": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\View Form\\Course_Form.cs",
+              "RelativeToolTip": "Unicom.DB\\View Form\\Course_Form.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:23:47.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\Dashboard Form\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "Unicom.DB\\Dashboard Form\\AdminDashboard.cs",
+              "ToolTip": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\Dashboard Form\\AdminDashboard.cs [Design]*",
+              "RelativeToolTip": "Unicom.DB\\Dashboard Form\\AdminDashboard.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:24:15.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Unicom.DB\\LoginForm.cs",
+              "ToolTip": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\LoginForm.cs",
+              "RelativeToolTip": "Unicom.DB\\LoginForm.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:23:30.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Exam_Mark_Form.cs [Design]",
+              "DocumentMoniker": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\View Form\\Exam_Mark_Form.cs",
+              "RelativeDocumentMoniker": "Unicom.DB\\View Form\\Exam_Mark_Form.cs",
+              "ToolTip": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\View Form\\Exam_Mark_Form.cs [Design]*",
+              "RelativeToolTip": "Unicom.DB\\View Form\\Exam_Mark_Form.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:23:53.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Course_Form.cs [Design]",
+              "DocumentMoniker": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\View Form\\Course_Form.cs",
+              "RelativeDocumentMoniker": "Unicom.DB\\View Form\\Course_Form.cs",
+              "ToolTip": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\View Form\\Course_Form.cs [Design]*",
+              "RelativeToolTip": "Unicom.DB\\View Form\\Course_Form.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:23:44.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Unicom.DB\\LoginForm.cs",
+              "ToolTip": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\LoginForm.cs [Design]*",
+              "RelativeToolTip": "Unicom.DB\\LoginForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:23:28.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\Program.cs",
+              "RelativeDocumentMoniker": "Unicom.DB\\Program.cs",
+              "ToolTip": "Z:\\C#\\Management System for C#\\Unicom.DB\\Unicom.DB\\Program.cs",
+              "RelativeToolTip": "Unicom.DB\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:23:25.265Z"
             }
           ]
         }

@@ -20,10 +20,7 @@ namespace Unicom.DB
         public LecturerForm()
         {
             InitializeComponent();
-            this.BackgroundImage = Image.FromFile("Z:\\C#\\Management System for C#\\Unicom.DB\\A.jpg");
-
-
-            this.BackgroundImageLayout = ImageLayout.Stretch;
+            
             LoadLecturer();
             LoadRoles();
             LoadSriLankaDistricts();

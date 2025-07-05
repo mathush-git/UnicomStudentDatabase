@@ -17,10 +17,7 @@ namespace Unicom.DB.Dashboard_Form
         public AdminDashboard()
         {
             InitializeComponent();
-            this.BackgroundImage = Image.FromFile("Z:\\C#\\Management System for C#\\Unicom.DB\\B.jpg");
-
-
-            this.BackgroundImageLayout = ImageLayout.Stretch;
+            
         }
 
         private void button6_Click(object sender, EventArgs e)

@@ -16,10 +16,7 @@ namespace Unicom.DB.Dashboard_Form
         public StaffDashboard()
         {
             InitializeComponent();
-            this.BackgroundImage = Image.FromFile("Z:\\C#\\Management System for C#\\Unicom.DB\\B.jpg");
-
-
-            this.BackgroundImageLayout = ImageLayout.Stretch;
+            
         }
 
         private void btnTime_Table_Click(object sender, EventArgs e)

@@ -21,10 +21,7 @@ namespace Unicom.DB.AddForms
         public StaffForm()
         {
             InitializeComponent();
-            this.BackgroundImage = Image.FromFile("Z:\\C#\\Management System for C#\\Unicom.DB\\A.jpg");
-
-
-            this.BackgroundImageLayout = ImageLayout.Stretch;
+            
             LoadStaff();
             LoadRoles();
             LoadSriLankaDistricts();

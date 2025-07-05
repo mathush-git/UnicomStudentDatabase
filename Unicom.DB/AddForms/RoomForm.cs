@@ -20,8 +20,7 @@ namespace Unicom.DB.AddForms
         public RoomForm()
         {
             InitializeComponent();
-            this.BackgroundImage = Image.FromFile("Z:\\C#\\Management System for C#\\Unicom.DB\\A.jpg");
-            this.BackgroundImageLayout = ImageLayout.Stretch;
+           
 
             LoadRooms();
         }
